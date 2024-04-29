@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+**<h1>Materialverwaltungswebanwendung 📦💻</h1>**
+
+**<h2>Überblick:</h2>**
+Die Materialverwaltungswebanwendung ist ein effizientes System zur Verwaltung von Materialien im Verwaltungsbüro der Region Marrakech-Safi. Diese Anwendung bietet Funktionen zum Erstellen, Lesen, Aktualisieren und Löschen (CRUD) von Materialien, um die Effizienz des Materialmanagements zu steigern.
+
+**<h2>Funktionen:</h2>**
+Materialverwaltung: Erstellen, bearbeiten und löschen Sie Materialdatensätze mühelos.
+Berichterstellung: Generieren Sie Berichte über Materialbestände und -bewegungen.
+Benutzerfreundliche Oberfläche: Intuitive Benutzeroberfläche für eine einfache Navigation und Bedienung.
+
+**<h2>Technologien:</h2>**
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: PHP, Laravel Framework
+Datenbank: MySQL
+
+**<h2>Installation:</h2>**
+Wechseln Sie zum Zweig „Master“ </br>
+Klonen Sie das Repository: git clone https://github.com/YoussefLahbari/Materialverwaltungswebanwendung.git </br>
+Navigieren Sie zum Projektverzeichnis: cd material-management </br>
+Installieren Sie die Abhängigkeiten: composer install </br>
+Konfigurieren Sie die Datenbank in der .env-Datei </br>
+Führen Sie die Migrationen aus: php artisan migrate </br>
+Starten Sie die Anwendung: php artisan serve </br>
+
+**<h2>Beitrag: </h2>**
+Beiträge sind willkommen! Sie können gerne ein Problem melden oder einen Pull-Request für Verbesserungen oder Fehlerkorrekturen einreichen.
+
+**<h2>Lizenz:</h2>**
+None.
+>>>>>>> 2d5530edd53cf81d61a7d4c0792f35b6592d3066
