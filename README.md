@@ -14,7 +14,7 @@ Backend: PHP, Laravel Framework
 Datenbank: MySQL
 
 **<h2>Installation:</h2>**
-Wechseln Sie zum Zweig „Master“
+Wechseln Sie zum Zweig „Master“ </br>
 Klonen Sie das Repository: git clone https://github.com/YoussefLahbari/Materialverwaltungswebanwendung.git </br>
 Navigieren Sie zum Projektverzeichnis: cd material-management </br>
 Installieren Sie die Abhängigkeiten: composer install </br>
