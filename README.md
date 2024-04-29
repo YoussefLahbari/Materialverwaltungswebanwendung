@@ -1,25 +1,28 @@
-Materialverwaltungswebanwendung 📦💻
+**<h1>Materialverwaltungswebanwendung 📦💻</h1>**
 
-Überblick
+**<h2>Überblick:</h2>**
 Die Materialverwaltungswebanwendung ist ein effizientes System zur Verwaltung von Materialien im Verwaltungsbüro der Region Marrakech-Safi. Diese Anwendung bietet Funktionen zum Erstellen, Lesen, Aktualisieren und Löschen (CRUD) von Materialien, um die Effizienz des Materialmanagements zu steigern.
 
-Funktionen
+**<h2>Funktionen:</h2>**
 Materialverwaltung: Erstellen, bearbeiten und löschen Sie Materialdatensätze mühelos.
 Berichterstellung: Generieren Sie Berichte über Materialbestände und -bewegungen.
 Benutzerfreundliche Oberfläche: Intuitive Benutzeroberfläche für eine einfache Navigation und Bedienung.
-Technologien
+
+**<h2>Technologien:</h2>**
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP, Laravel Framework
 Datenbank: MySQL
-Installation
-Klonen Sie das Repository: git clone https://github.com/your_username/material-management.git
-Navigieren Sie zum Projektverzeichnis: cd material-management
-Installieren Sie die Abhängigkeiten: composer install
-Konfigurieren Sie die Datenbank in der .env-Datei
-Führen Sie die Migrationen aus: php artisan migrate
-Starten Sie die Anwendung: php artisan serve
-Beitrag
+
+**<h2>Installation:</h2>**
+Klonen Sie das Repository: git clone https://github.com/YoussefLahbari/Materialverwaltungswebanwendung.git </br>
+Navigieren Sie zum Projektverzeichnis: cd material-management </br>
+Installieren Sie die Abhängigkeiten: composer install </br>
+Konfigurieren Sie die Datenbank in der .env-Datei </br>
+Führen Sie die Migrationen aus: php artisan migrate </br>
+Starten Sie die Anwendung: php artisan serve </br>
+
+**<h2>Beitrag: </h2>**
 Beiträge sind willkommen! Sie können gerne ein Problem melden oder einen Pull-Request für Verbesserungen oder Fehlerkorrekturen einreichen.
 
-Lizenz
+**<h2>Lizenz:</h2>**
 None.
