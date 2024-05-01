@@ -14,6 +14,3 @@ import './bootstrap';
 
 import './components/Example';
 
-return <>
-dfegre
-</>
